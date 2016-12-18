@@ -1,0 +1,20 @@
+<div class="row">
+  <div class="col s12 center">
+    <h2><%= gettext "Welcome to %{name}", name: "Materialize" %></h2>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col s6">
+    <p><span class="test-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias dolorem atque optio animi ipsam nobis excepturi facilis. Beatae maiores officiis, commodi perferendis ipsa nemo optio similique, sapiente quam nisi vitae.</span>
+    <span>Voluptas accusamus, nobis esse! Harum laudantium sint temporibus dicta dignissimos delectus nostrum perferendis, aperiam, odio porro, ab quam fugiat nobis tempora blanditiis ad. Aliquid repellendus eaque molestiae illo maiores pariatur.</span>
+    <span>A temporibus quos expedita, ut tempora aspernatur omnis voluptatem labore ex dolorem. Nam nostrum cumque a quaerat deleniti enim ex, odit corporis ratione veritatis, culpa facilis dignissimos aspernatur! Earum, saepe.</span>
+    <span>Eius sit quos, voluptatibus nam, ipsa architecto vitae. Veritatis officiis provident facilis vitae expedita praesentium tenetur unde ducimus alias officia perspiciatis, eveniet molestiae fugiat error magnam impedit, id magni facere!</span>
+    <span>Temporibus, numquam reprehenderit neque omnis veritatis fuga quasi quod illo expedita? Ad similique sequi reprehenderit excepturi eveniet eum, temporibus est adipisci officiis esse tenetur porro, mollitia deserunt, autem vel vitae.</span>
+    <span>Cumque eaque culpa, tenetur aut cum blanditiis, id omnis incidunt velit error quisquam necessitatibus ipsum iste ex, quae molestias neque. Repellat ducimus harum quis, neque voluptatibus facilis quod placeat natus.</span>
+    <span>Aliquid praesentium dicta mollitia. Repellat labore, iure a expedita officia sint recusandae impedit, facere numquam ea debitis fuga praesentium doloremque deleniti, amet incidunt unde quidem minus. Deleniti ut delectus nemo.</span>
+    <span>Esse aliquid fugit quod aspernatur quasi, nemo officiis voluptate est porro ut laboriosam iste vero vitae enim, quae dolorem beatae iusto at, unde. Placeat tempora odit blanditiis ea aliquam quos.</span>
+    <span>Odio, minus iure voluptates reiciendis rem labore architecto aspernatur esse cum? Distinctio ab voluptates aut commodi in sint suscipit nesciunt odit sed beatae nisi dignissimos nihil, fugiat eum maxime, eligendi?</span>
+    <span>Ratione, accusantium! Quisquam repellendus facilis assumenda, ad, quas, ut nostrum accusantium dignissimos aperiam ducimus fugiat. Voluptatibus officiis eius odit, unde, recusandae rerum beatae nihil, suscipit possimus harum optio at mollitia!</span></p>
+  </div>
+</div>
